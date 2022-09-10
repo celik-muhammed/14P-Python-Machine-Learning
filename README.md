@@ -4,6 +4,7 @@
 ### [Go to Home Page](https://github.com/celik-muhammed)
 
 | Machine Learning Project | Kaggle | Tableau |
+|:--|:-:|:-:|
 | 1. Supervised learning | Kaggle | Tableau |
 | [01. ML-Autoscout-Car-Price-Prediction](https://github.com/celik-muhammed/ML-Autoscout-Car-Price-Prediction-Project) | [](#) |
 | [02. ML-Soldiers-Race-Classification](https://github.com/celik-muhammed/ML-Soldiers-Race-Classification-Project) | [](#) |

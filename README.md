@@ -3,6 +3,8 @@
 
 ### [Go to Home Page](https://github.com/celik-muhammed)
 
+<div align="center">
+
 | Machine Learning Project | Kaggle | Tableau |
 |:--|:-:|:-:|
 | 1. Supervised learning | Kaggle | Tableau |
@@ -12,6 +14,7 @@
 | [01. ML-Customers-Segmentation-Cluestering-Analysis](https://github.com/celik-muhammed/ML-Customers-Segmentation-Cluestering-Analysis-Project) | [](#) |
 | [99. draft ](./draft ) | [](#) |
 
+</div>
 
 
 <!-- CHANGE-05 .../myname/ myname yerine profil user name yaz -->

@@ -8,10 +8,10 @@
 | <h2 align='center'>Machine Learning Project</h2> | Kaggle | Tableau |
 |:--|:-:|:-:|
 | 1. Supervised learning | Kaggle | Tableau |
-| [01. ML-Autoscout-Car-Price-Prediction](https://github.com/celik-muhammed/ML-Autoscout-Car-Price-Prediction-Project) | [](#) |
-| [02. ML-Soldiers-Race-Classification](https://github.com/celik-muhammed/ML-Soldiers-Race-Classification-Project) | [](#) |
+| [01. ML-Autoscout-Car-Price-Prediction](https://github.com/celik-muhammed/ML-Autoscout-Car-Price-Prediction-Project/blob/master/README.md) | [](#) |
+| [02. ML-Soldiers-Race-Classification](https://github.com/celik-muhammed/ML-Soldiers-Race-Classification-Project/blob/master/README.md) | [](#) |
 | 2. Unsupervised learning | Kaggle | Tableau |
-| [01. ML-Customers-Segmentation-Cluestering-Analysis](https://github.com/celik-muhammed/ML-Customers-Segmentation-Cluestering-Analysis-Project) | [](#) |
+| [01. ML-Customers-Segmentation-Cluestering-Analysis](https://github.com/celik-muhammed/ML-Customers-Segmentation-Cluestering-Analysis-Project/blob/master/README.md) | [](#) |
 | [99. draft ](./draft ) | [](#) |
 
 </div>

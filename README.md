@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  | <h2>Machine Learning Project</h2> | Kaggle | Tableau |
+| <h2 align='center'>Machine Learning Project</h2> | Kaggle | Tableau |
 |:--|:-:|:-:|
 | 1. Supervised learning | Kaggle | Tableau |
 | [01. ML-Autoscout-Car-Price-Prediction](https://github.com/celik-muhammed/ML-Autoscout-Car-Price-Prediction-Project) | [](#) |

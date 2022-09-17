@@ -6,8 +6,8 @@
 <h3>
   
 [Go to Home Page](https://github.com/celik-muhammed)
-<img width=50%>
-[Go to Home Page](https://github.com/celik-muhammed)
+<img width=20%>
+[14CS-Machine-Learning-Case-Study-with-Python](https://github.com/celik-muhammed/14CS-Machine-Learning-Case-Study-with-Python/blob/master/README.md)
 </h3>
 
 | <h2 align='center'>Machine Learning Project</h2> | Kaggle | Tableau |

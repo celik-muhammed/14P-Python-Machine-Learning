@@ -10,7 +10,6 @@
 [Go to Home Page](https://github.com/celik-muhammed)
 </h3>
 
-
 | <h2 align='center'>Machine Learning Project</h2> | Kaggle | Tableau |
 |:--|:-:|:-:|
 | 1. Supervised learning | Kaggle | Tableau |

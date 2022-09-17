@@ -7,7 +7,7 @@
 
 <h3 align='right'>
   
-[14CS-Machine-Learning-Case-Study-with-Python](https://github.com/celik-muhammed/14CS-Machine-Learning-Case-Study-with-Python/blob/master/README.md)
+[14CS-Machine-Learning-Case-Studies-with-Python](https://github.com/celik-muhammed/14CS-Machine-Learning-Case-Studies-with-Python/blob/master/README.md)
 </h3>
 
 | <h2 align='center'>Machine Learning Project</h2> | Kaggle | Tableau |

@@ -16,17 +16,25 @@
   
 [14CS-Machine-Learning-Case-Studies-with-Python](https://github.com/celik-muhammed/14CS-Machine-Learning-Case-Studies-with-Python/blob/master/README.md)
 </h3>
-
-| <h2 align='center'>Machine Learning Project</h2> | 
-|:--|
-| 1. Supervised Learning | 
-| 1.1 Regression | 
-| [01. ML-Autoscout-Car-Price-Prediction](https://github.com/celik-muhammed/ML-Autoscout-Car-Price-Prediction-Project/blob/master/README.md) | 
-| 1.2 Classification | 
-| [02. ML-Soldiers-Race-Classification](https://github.com/celik-muhammed/ML-Soldiers-Race-Classification-Project/blob/master/README.md) | 
-| 2. Unsupervised Learning | 
-| 2.1 Clustering | 
-| [01. ML-Customers-Segmentation-Cluestering-Analysis](https://github.com/celik-muhammed/ML-Customers-Segmentation-Cluestering-Analysis-Project/blob/master/README.md) |
-| [99. draft ](./draft ) | [](#) |
-
+  
+<table>
+<thead><tr><th colspan=2><h2 align='center'>Machine Learning Project</h2></tr></thead>
+<thead align='left'><tr><th colspan=2>1. Supervised Learning</th></tr></thead>
+<thead><tr><th>1.1 Regression</th><th>1.2 Classification</th></tr></thead>
+<tbody>
+  <tr>
+    <td><a href="https://github.com/celik-muhammed/ML-Autoscout-Car-Price-Prediction-Project/blob/master/README.md">01. ML-Autoscout-Car-Price-Prediction</a></td>
+    <td><a href="https://github.com/celik-muhammed/ML-Soldiers-Race-Classification-Project/blob/master/README.md">02. ML-Soldiers-Race-Classification</a></td>
+  </tr>
+</tbody>
+<thead align='left'><tr><th colspan=2>2. Unsupervised Learning</th></tr></thead>
+<thead><tr><th>2.1 Clustering</th><th>2.2 Dimension Reduction (PCA)</th></tr></thead>
+<tbody>
+  <tr>
+    <td><a href="https://github.com/celik-muhammed/ML-Customers-Segmentation-Cluestering-Analysis-Project/blob/master/README.md">01. ML-Customers-Segmentation-Cluestering-Analysis</a></td>
+    <td><a href="">link</a></td>
+  </tr>
+</tbody>
+</table>  
+  
 </div>

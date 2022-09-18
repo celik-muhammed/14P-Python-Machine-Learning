@@ -18,7 +18,7 @@
 </h3>
   
 <table>
-<thead><tr><th colspan=2><h2 align='center'>Machine Learning Project with Python</h2></tr></thead>
+<thead><tr><th colspan=2><h2 align='center'>Machine Learning Projects with Python</h2></tr></thead>
 <thead align='left'><tr><th colspan=2>1. Supervised Learning</th></tr></thead>
 <thead><tr><th>1.1 Regression</th><th>1.2 Classification</th></tr></thead>
 <tbody>

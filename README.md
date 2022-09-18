@@ -17,8 +17,8 @@
 [14CS-Machine-Learning-Case-Studies-with-Python](https://github.com/celik-muhammed/14CS-Machine-Learning-Case-Studies-with-Python/blob/master/README.md)
 </h3>
 
-| <h2 align='center'>Machine Learning Project</h2> | Kaggle | Tableau |
-|:--|:-:|:-:|
+| <h2 align='center'>Machine Learning Project</h2> | 
+|:--|
 | 1. Supervised Learning | 
 | 1.1 Regression | 
 | [01. ML-Autoscout-Car-Price-Prediction](https://github.com/celik-muhammed/ML-Autoscout-Car-Price-Prediction-Project/blob/master/README.md) | 

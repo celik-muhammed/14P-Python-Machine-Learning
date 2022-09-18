@@ -19,12 +19,12 @@
 
 | <h2 align='center'>Machine Learning Project</h2> | Kaggle | Tableau |
 |:--|:-:|:-:|
-| 1. Supervised learning | 
+| 1. Supervised Learning | 
 | 1.1 Regression | 
 | [01. ML-Autoscout-Car-Price-Prediction](https://github.com/celik-muhammed/ML-Autoscout-Car-Price-Prediction-Project/blob/master/README.md) | 
 | 1.2 Classification | 
 | [02. ML-Soldiers-Race-Classification](https://github.com/celik-muhammed/ML-Soldiers-Race-Classification-Project/blob/master/README.md) | 
-| 2. Unsupervised learning | 
+| 2. Unsupervised Learning | 
 | 2.1 Clustering | 
 | [01. ML-Customers-Segmentation-Cluestering-Analysis](https://github.com/celik-muhammed/ML-Customers-Segmentation-Cluestering-Analysis-Project/blob/master/README.md) |
 | [99. draft ](./draft ) | [](#) |

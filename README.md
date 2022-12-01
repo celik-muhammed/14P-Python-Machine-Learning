@@ -21,7 +21,7 @@
 
   
 <table align="center">
-<thead><tr><th colspan=2><h2 align='center'>Machine Learning Projects with Python</h2></tr></thead>
+    <caption><div align='center'>Machine Learning Projects with Python</div></caption>
 <thead align='left'><tr><th colspan=2>1. Supervised Learning</th></tr></thead>
 <thead><tr><th>1.1 Regression</th><th>1.2 Classification</th></tr></thead>
 <tbody>
@@ -39,11 +39,13 @@
 <tbody>
   <tr>
     <td><a href="https://github.com/celik-muhammed/ML-Customers-Segmentation-Cluestering-Analysis-Project/blob/master/README.md">01. ML-Customers-Segmentation-Cluestering-Analysis</a></td>
-    <td><a href="#">01. _</a></td>
   </tr>
   <tr>
-    <td><a href="#">02. _</a></td>
-    <td><a href="#">02. _</a></td>
+    <td><a href="#"></a></td>
   </tr>
 </tbody>
-</table>  
+  
+<tfoot>
+  <tr><td>draft</td></tr>
+</tfoot>
+</table>

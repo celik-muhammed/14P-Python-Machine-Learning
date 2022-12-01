@@ -26,11 +26,10 @@
 <thead><tr><th>1.1 Regression</th><th>1.2 Classification</th></tr></thead>
 <tbody>
   <tr>
-    <td><a href="https://github.com/celik-muhammed/ML-Autoscout-Car-Price-Prediction-Project/blob/master/README.md">01. ML Autoscout Car Price Prediction</a></td>
+    <td rowspan="2"><a href="https://github.com/celik-muhammed/ML-Autoscout-Car-Price-Prediction-Project/blob/master/README.md">01. ML Autoscout Car Price Prediction</a></td>
     <td><a href="https://github.com/celik-muhammed/ML-Soldiers-Race-Classification-Project/blob/master/README.md">01. ML Soldiers Race Classification</a></td>
   </tr>
   <tr>
-    <td><a href="#">02. _</a></td>
     <td><a href="https://www.kaggle.com/code/clkmuhammed/credit-score-classification-logreg-rf-xgb-deploy/notebook">02. Kaggle: Credit Score Classification</a></td>
   </tr>
 </tbody>

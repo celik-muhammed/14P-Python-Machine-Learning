@@ -38,6 +38,7 @@
 <tbody>
   <tr>
     <td><a href="https://github.com/celik-muhammed/ML-Customers-Segmentation-Cluestering-Analysis-Project/blob/master/README.md">01. ML-Customers-Segmentation-Cluestering-Analysis</a></td>
+    <td><a href="https://github.com/celik-muhammed/CapstoneP-Customer-Segmentation-Cluestering-Analysis#readme">02. Capstone Project Customer Segmentation Cluestering Analysis</a></td>
   </tr>
   <tr>
     <td><a href="#"></a></td>

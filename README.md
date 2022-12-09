@@ -15,7 +15,7 @@
 
 <h3 align='right'>
   
-[14CS-Machine-Learning-Case-Studies-with-Python](https://github.com/celik-muhammed/14CS-Machine-Learning-Case-Studies-with-Python/blob/master/README.md)
+[14CS Machine Learning Case Studies with Python](https://github.com/celik-muhammed/14CS-Machine-Learning-Case-Studies-with-Python/blob/master/README.md)
 </h3>
 
 

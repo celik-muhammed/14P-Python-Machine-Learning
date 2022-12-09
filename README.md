@@ -49,3 +49,6 @@
   <tr><td>draft</td></tr>
 </tfoot>
 </table>
+
+<div align="center">
+  <img src="https://i.ibb.co/TPrJ4mb/mikane.png" alt="" ></div>

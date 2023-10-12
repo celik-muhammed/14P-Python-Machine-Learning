@@ -52,3 +52,30 @@
 
 <div align="center">
   <img src="https://i.ibb.co/TPrJ4mb/mikane.png" alt="" ></div>
+
+
+
+```mermaid
+flowchart LR
+
+Data[Data Type] --> Qualitative[Qualitative aka Categorical]
+Data --> Quantitative[Quantitative aka Numerical]
+
+Qualitative -->|Qualitative| Nominal[Nominal Data]
+Qualitative -->|Qualitative| Ordinal[Ordinal Data]
+Qualitative -->|Qualitative| Binary[Binary Data]
+
+Quantitative -->|Quantitative| Discrete[Discrete Data - Countable]
+Quantitative -->|Quantitative| Continuous[Continuous Data - Uncountable]
+
+subgraph Qualitative Data
+    Nominal --> MaritalStatus[Encoding: One-Hot, e.g. Marital Status]
+    Ordinal --> PainIntensity[Encoding: Ordinal, e.g. Pain Intensity]
+    Binary --> YesNo[Encoding: One-Hot or Binary, e.g. Yes/No or 0/1]
+end
+
+subgraph Quantitative Data
+    Discrete --> Weight[No specific encoding needed, e.g. Weight]
+    Continuous --> MicrobialCount[Encoding: Standardization, Min-Max Scaling, Log Transformation, etc., e.g. Microbial Count]
+end
+```

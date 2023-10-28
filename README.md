@@ -127,11 +127,15 @@ Algorithms like XGBoost, LightGBM, and CatBoost use gradient-based optimization 
 
 09. **Linear Discriminant Analysis (LDA)**
     
-LDA's primary goal in the context of classification is to find a linear combination of features that best separates two or more classes. It does this by maximizing the differences between class means while minimizing the variations within each class. LDA seeks to optimize the linear coefficients that define this combination of features to achieve the objectives mentioned above. The optimization problem in LDA typically involves finding the coefficients that maximize a certain objective function, such as the ratio of between-class variance to within-class variance (Fisher's discriminant criterion). This is usually done using techniques like eigenvalue decomposition or singular value decomposition, which help determine the optimal linear coefficients. These coefficients are used to project the data into a lower-dimensional space, making LDA a powerful method for feature extraction and classification.
+LDA's primary goal in the context of classification is to find a linear combination of features that best separates two or more classes. It does this by maximizing the differences between class means while minimizing the variations within each class. LDA seeks to optimize the linear coefficients that define this combination of features to achieve the objectives mentioned above. 
+
+The optimization problem in LDA typically involves finding the coefficients that maximize a certain objective function, such as the ratio of between-class variance to within-class variance (Fisher's discriminant criterion). This is usually done using techniques like eigenvalue decomposition or singular value decomposition, which help determine the optimal linear coefficients. These coefficients are used to project the data into a lower-dimensional space, making LDA a powerful method for feature extraction and classification.
 
 10. **Generalized Linear Models (GLM)**
     
-GLMs are a class of supervised learning models, commonly used for regression and classification tasks. GLMs are an extension of traditional linear regression, but they allow for a broader range of target variable types, not limited to continuous values. They can handle various types of response variables, including continuous, binary, count, and more. The optimization method used for fitting GLMs typically involves maximizing the likelihood function. The specific optimization algorithm employed may vary depending on the software or library used for modeling. Common optimization techniques for GLMs include iterative algorithms like Newton-Raphson, Fisher scoring, and gradient descent methods, depending on the specific problem and software implementation.
+GLMs are a class of supervised learning models, commonly used for regression and classification tasks. GLMs are an extension of traditional linear regression, but they allow for a broader range of target variable types, not limited to continuous values. They can handle various types of response variables, including continuous, binary, count, and more. 
+
+The optimization method used for fitting GLMs typically involves maximizing the likelihood function. The specific optimization algorithm employed may vary depending on the software or library used for modeling. Common optimization techniques for GLMs include iterative algorithms like Newton-Raphson, Fisher scoring, and gradient descent methods, depending on the specific problem and software implementation.
 
 # **Unsupervised Machine Learning**
 
@@ -203,3 +207,5 @@ An algorithm used in decision-making for games and planning tasks, MCTS optimize
 
 **Optimization algorithms** play a critical role in machine learning, shaping the way models learn from data, discover patterns, and make decisions. They are foundational to a wide range of applications, from predicting financial market trends and autonomous vehicle navigation to healthcare diagnostics and natural language understanding. Understanding and applying these **algorithms** is not only valuable for data scientists and machine learning practitioners but also for anyone seeking to leverage the power of AI in today's data-driven world.
 
+# Links:
+- https://web.stanford.edu/~jurafsky/slp3/5.pdf

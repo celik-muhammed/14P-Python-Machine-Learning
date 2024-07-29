@@ -50,36 +50,42 @@
 </tfoot>
 </table>
 
-<div align="center">
+
+<div align="center"><br><br>
   <img src="https://i.ibb.co/TPrJ4mb/mikane.png" alt="" ></div>
 
 
+<div align="center"><br>
 
 ```mermaid
 flowchart LR
 
-Data[Data Type] --> Qualitative[Qualitative aka Categorical]
-Data --> Quantitative[Quantitative aka Numerical]
-
-Qualitative -->|Qualitative| Nominal[Nominal Data]
-Qualitative -->|Qualitative| Ordinal[Ordinal Data]
-Qualitative -->|Qualitative| Binary[Binary Data]
-
-Quantitative -->|Quantitative| Discrete[Discrete Data - Countable]
-Quantitative -->|Quantitative| Continuous[Continuous Data - Uncountable]
-
-subgraph Qualitative Data
-    Nominal --> MaritalStatus[Encoding: One-Hot, e.g. Marital Status]
-    Ordinal --> PainIntensity[Encoding: Ordinal, e.g. Pain Intensity]
-    Binary --> YesNo[Encoding: One-Hot or Binary, e.g. Yes/No or 0/1]
-end
+Data[D\na\nt\na\n\nT\ny\np\ne] --> Quantitative[Numeric\naka\nQuantitative]
+Data[D\na\nt\na\n\nT\ny\np\ne] --> Qualitative[Categorical\naka\nQualitative]
 
 subgraph Quantitative Data
-    Discrete --> Weight[No specific encoding needed, e.g. Weight]
-    Continuous --> MicrobialCount[Encoding: Standardization, Min-Max Scaling, Log Transformation, etc., e.g. Microbial Count]
+    Quantitative -->|Quantitative| Continuous[Continuous\nUncountable Data]
+    Quantitative -->|Quantitative| Discrete[Discrete\nCountable Data]
+
+    Continuous --> MicrobialCount[Encoding:\nStandardization\nMin-Max Scaling\nLog Transformation\netc.\ne.g. Microbial Count]
+    Discrete --> Weight[No specific encoding needed\ne.g. Weight]
+end
+
+subgraph Qualitative Data
+    Qualitative -->|Qualitative| Binary[Binary Data]
+    Qualitative -->|Qualitative| Ordinal[Ordinal Data]
+    Qualitative -->|Qualitative| Nominal[Nominal Data]
+
+    Binary --> YesNo[Encoding:\nBinary-Encoding\nOne-Hot-Encoding\ne.g. Yes/No or 0/1]
+    Ordinal --> PainIntensity[Encoding:\nOrdinal-Encoding\ne.g. Pain Intensity]
+    Nominal --> MaritalStatus[Encoding:\nOne-Hot-Encoding\ne.g. Marital Status]
 end
 ```
+</div>
 
+
+<div align="center"><br><br>
+  <img src="https://www.kdnuggets.com/wp-content/uploads/garg_cat_variables_15.jpg" alt="" ></div>
 
 
 # **Optimization Algorithms in Machine Learning**
@@ -209,3 +215,17 @@ An algorithm used in decision-making for games and planning tasks, MCTS optimize
 
 # Links:
 - https://web.stanford.edu/~jurafsky/slp3/5.pdf
+- https://www.kdnuggets.com/2021/05/deal-with-categorical-data-machine-learning.html
+
+  
+---
+
+
+# Course Training Structure
+
+1. **Lecture**: Begin with lectures to **introduce** the foundational **concepts** and **theories**.
+2. **Tutorial**: Follow with tutorials that provide more **detailed explanations** and **examples** to reinforce the **lecture material**.
+3. **Workshop**: Continue with workshops that offer **interactive**, **practical** sessions to apply what has been learned.
+4. **Labs**: Move on to lab sessions that involve **hands-on experiments** or **exercises** to deepen understanding through **practice**.
+5. **Projects**: Progress to projects that **require** students to **apply** their **knowledge** and **skills** to more complex and comprehensive **tasks**.
+6. **Notes**: Provide notes throughout the **course for reference and review**.

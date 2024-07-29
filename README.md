@@ -87,6 +87,15 @@ end
 <div align="center"><br><br>
   <img src="https://www.kdnuggets.com/wp-content/uploads/garg_cat_variables_15.jpg" alt="" ></div>
 
+<div align="center"><br><br>
+  <img src="https://www.kdnuggets.com/wp-content/uploads/rosidi_advanced_feature_selection_techniques_machine_learning_models_8.png" alt="" ></div>
+
+<div align="center"><br><br>
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*MGHtv_f1FmTC7Wz7TNMXog.jpeg" alt="" ></div>
+
+<div align="center"><br><br>
+  <img src="https://machinelearningmastery.com/wp-content/uploads/2019/11/How-to-Choose-Feature-Selection-Methods-For-Machine-Learning.png" alt="" ></div>
+
 
 # **Optimization Algorithms in Machine Learning**
 
@@ -216,6 +225,10 @@ An algorithm used in decision-making for games and planning tasks, MCTS optimize
 # Links:
 - https://web.stanford.edu/~jurafsky/slp3/5.pdf
 - https://www.kdnuggets.com/2021/05/deal-with-categorical-data-machine-learning.html
+- https://www.kdnuggets.com/2023/06/advanced-feature-selection-techniques-machine-learning-models.html
+- https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/
+- https://www.stratascratch.com/blog/feature-selection-techniques-in-machine-learning/
+- https://medium.com/@debopamdeycse19/feature-selection-techniques-in-machine-learning-00a261e2574a
 
   
 ---
